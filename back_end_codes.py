@@ -10,6 +10,6 @@ def Jules (string1, string2):
     return new_list
 
 String1 = input ("Enter your first String: ")
-String2 = input ("Enter your second string: ")
+String2 = input ("Enter your second string have marketing: ")
 
 print (Jules(String1, String2))
